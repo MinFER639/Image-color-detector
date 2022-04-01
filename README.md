@@ -1,5 +1,5 @@
 # Image-color-detector
-An application to detect specific colors in an image with GUI.
+An application to detect specific colors in an image with GUI. (MATLAB)
 
 The application allows you to perform several operations.
 
